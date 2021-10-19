@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @skitty999
+- 👀 I’m interested in data science and learning to code
+- 🌱 I’m currently learning how to code :p
